@@ -4,3 +4,12 @@
 
 ⭐️ display flex and its properties like align-items, justify-content etc. added <br>
 
+⭐️ different position properties like absolute, fixed, sticky etc. used <br>
+
+⭐️ display grid and its properties used too <br>
+
+⭐️ Animation, keyframe, transform, translate etc. is also added <br>
+
+⭐️ Responsiveness for different type of devices added using media query <br>
+
+⭐️ Explored the position properties like sticky, fixed, relative, absolute etc. <br>
